@@ -1,11 +1,9 @@
-# 3D Computer Graphics assignment (Lab1)
-###### 111222015 物理學系碩士班一年級 陳盈珊
+# 3D Computer Graphics assignment ([Lab1](https://hackmd.io/TpltIfbET3O9X64BYrsNKQ?view))
 ### Work requirements:
 1. Write the functions of drawing point (d), Line (l), circle (o), polygon (p), clear (c), restore (r) and end program (q).
 1. Use the **keyboard** to switch between various functions.
 1. Use the **mouse** to click the coordinates assigned to the graph.
 1. Only use the function of drawing **points** in OpenGL.
-https://hackmd.io/TpltIfbET3O9X64BYrsNKQ?view
 
 ## Environment
 `Linux distribution`: `Ubuntu 22.04`
