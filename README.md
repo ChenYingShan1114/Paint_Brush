@@ -1,4 +1,4 @@
-# 3D Computer Graphics assignment ([Lab1](https://hackmd.io/TpltIfbET3O9X64BYrsNKQ?view))
+# 3D Computer Graphics assignment ([Lab1](https://hackmd.io/TpltIfbET3O9X64BYrsNKQ?view)): Paint Brush
 ### Work requirements:
 1. Write the functions of drawing point (d), Line (l), circle (o), polygon (p), clear (c), restore (r) and end program (q).
 1. Use the **keyboard** to switch between various functions.
