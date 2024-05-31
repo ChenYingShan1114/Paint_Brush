@@ -32,6 +32,11 @@ About how to build the enviroment on linux: [here](https://hackmd.io/3xPNjv6kRh2
 * ### Bonus function:
     Each graph automatically has a different color.
 
+## Figure
+<p align="center">
+    <img src="https://github.com/ChenYingShan1114/Paint_Brush/blob/5758ea48ad3f88009e7a5bb6214719e3e1205cf3/figure/lab1.png" width="500" >
+</p>
+
 ## Libraries
 * ### C++
 ```cpp
