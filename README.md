@@ -6,8 +6,8 @@
 1. Only use the function of drawing **points** in OpenGL.
 
 ## Environment
-`Linux distribution`: `Ubuntu 22.04`
-
+`Linux distribution`: `Ubuntu 22.04`<br>
+About how to build the enviroment on linux: [here](https://hackmd.io/3xPNjv6kRh2Ml6Ll7Nlw4A).
 ## Operating instructions
 * ### Draw Points (d):
     Start drawing graphic when you press the left mouse button.<br> 
