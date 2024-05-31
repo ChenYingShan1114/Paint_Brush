@@ -1,0 +1,3 @@
+/home/dim1114/Downloads/2022CG_Lab1_111222015/build/CMakeFiles/HW0.dir
+/home/dim1114/Downloads/2022CG_Lab1_111222015/build/CMakeFiles/edit_cache.dir
+/home/dim1114/Downloads/2022CG_Lab1_111222015/build/CMakeFiles/rebuild_cache.dir

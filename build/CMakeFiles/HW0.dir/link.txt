@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/HW0.dir/Lab0.cpp.o -o HW0  -lglut -lGLU -lGL 
